@@ -1,0 +1,79 @@
+﻿  Cell.cpp
+c:\users\ivan\documents\visual studio 2015\projects\agar2\agar2\Vec.h(126): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ivan\documents\visual studio 2015\projects\agar2\agar2\Cell.h(52): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\ivan\documents\visual studio 2015\projects\agar2\agar2\Game.h(78): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\ivan\documents\visual studio 2015\projects\agar2\agar2\Game.h(79): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\ivan\documents\visual studio 2015\projects\agar2\agar2\Game.h(80): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\ivan\documents\visual studio 2015\projects\agar2\agar2\Game.h(81): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\ivan\documents\visual studio 2015\projects\agar2\agar2\Game.h(89): warning C4305: 'initializing': truncation from 'double' to 'const float'
+Cell.cpp(88): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Cell.cpp(89): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Cell.cpp(96): warning C4101: 'Result': unreferenced local variable
+  Game.cpp
+c:\users\ivan\documents\visual studio 2015\projects\agar2\agar2\Vec.h(126): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ivan\documents\visual studio 2015\projects\agar2\agar2\Cell.h(52): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\ivan\documents\visual studio 2015\projects\agar2\agar2\Game.h(78): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\ivan\documents\visual studio 2015\projects\agar2\agar2\Game.h(79): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\ivan\documents\visual studio 2015\projects\agar2\agar2\Game.h(80): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\ivan\documents\visual studio 2015\projects\agar2\agar2\Game.h(81): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\ivan\documents\visual studio 2015\projects\agar2\agar2\Game.h(89): warning C4305: 'initializing': truncation from 'double' to 'const float'
+Game.cpp(77): warning C4018: '<': signed/unsigned mismatch
+Game.cpp(81): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 2 has type 'lws *'
+Game.cpp(171): warning C4101: 'NeedsUpdate': unreferenced local variable
+  Main.cpp
+c:\users\ivan\documents\visual studio 2015\projects\agar2\agar2\Vec.h(126): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ivan\documents\visual studio 2015\projects\agar2\agar2\Cell.h(52): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\ivan\documents\visual studio 2015\projects\agar2\agar2\Game.h(78): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\ivan\documents\visual studio 2015\projects\agar2\agar2\Game.h(79): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\ivan\documents\visual studio 2015\projects\agar2\agar2\Game.h(80): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\ivan\documents\visual studio 2015\projects\agar2\agar2\Game.h(81): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\ivan\documents\visual studio 2015\projects\agar2\agar2\Game.h(89): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  Map.cpp
+c:\users\ivan\documents\visual studio 2015\projects\agar2\agar2\Vec.h(126): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ivan\documents\visual studio 2015\projects\agar2\agar2\Cell.h(52): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\ivan\documents\visual studio 2015\projects\agar2\agar2\Game.h(78): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\ivan\documents\visual studio 2015\projects\agar2\agar2\Game.h(79): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\ivan\documents\visual studio 2015\projects\agar2\agar2\Game.h(80): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\ivan\documents\visual studio 2015\projects\agar2\agar2\Game.h(81): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\ivan\documents\visual studio 2015\projects\agar2\agar2\Game.h(89): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  Player.cpp
+c:\users\ivan\documents\visual studio 2015\projects\agar2\agar2\Vec.h(126): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ivan\documents\visual studio 2015\projects\agar2\agar2\Cell.h(52): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\ivan\documents\visual studio 2015\projects\agar2\agar2\Game.h(78): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\ivan\documents\visual studio 2015\projects\agar2\agar2\Game.h(79): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\ivan\documents\visual studio 2015\projects\agar2\agar2\Game.h(80): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\ivan\documents\visual studio 2015\projects\agar2\agar2\Game.h(81): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\ivan\documents\visual studio 2015\projects\agar2\agar2\Game.h(89): warning C4305: 'initializing': truncation from 'double' to 'const float'
+Player.cpp(102): warning C4018: '<': signed/unsigned mismatch
+Player.cpp(125): warning C4018: '<': signed/unsigned mismatch
+Player.cpp(129): warning C4018: '<': signed/unsigned mismatch
+Player.cpp(151): warning C4305: 'initializing': truncation from 'double' to 'float'
+Player.cpp(162): warning C4305: 'argument': truncation from 'double' to 'float'
+Player.cpp(182): warning C4244: 'initializing': conversion from 'float' to 'uint32_t', possible loss of data
+Player.cpp(229): warning C4018: '<': signed/unsigned mismatch
+Player.cpp(233): warning C4018: '<': signed/unsigned mismatch
+Player.cpp(308): warning C4018: '<': signed/unsigned mismatch
+Player.cpp(312): warning C4018: '<': signed/unsigned mismatch
+Player.cpp(397): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+Player.cpp(411): warning C4018: '<': signed/unsigned mismatch
+Player.cpp(511): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Player.cpp(512): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Player.cpp(541): warning C4305: 'initializing': truncation from 'double' to 'float'
+Player.cpp(542): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+Player.cpp(679): warning C4018: '<': signed/unsigned mismatch
+  WebSocket.cpp
+c:\users\ivan\documents\visual studio 2015\projects\agar2\agar2\Vec.h(126): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ivan\documents\visual studio 2015\projects\agar2\agar2\Cell.h(52): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\ivan\documents\visual studio 2015\projects\agar2\agar2\Game.h(78): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\ivan\documents\visual studio 2015\projects\agar2\agar2\Game.h(79): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\ivan\documents\visual studio 2015\projects\agar2\agar2\Game.h(80): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\ivan\documents\visual studio 2015\projects\agar2\agar2\Game.h(81): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\ivan\documents\visual studio 2015\projects\agar2\agar2\Game.h(89): warning C4305: 'initializing': truncation from 'double' to 'const float'
+WebSocket.cpp(41): warning C4101: 'request_from_client_buf': unreferenced local variable
+  Generating code
+  4 of 770 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    10 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  agar2.vcxproj -> C:\Users\Ivan\documents\visual studio 2015\Projects\agar2\Release\agar2.exe
+  agar2.vcxproj -> C:\Users\Ivan\documents\visual studio 2015\Projects\agar2\Release\agar2.pdb (Full PDB)
